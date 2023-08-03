@@ -1,0 +1,12 @@
+## The program runs in the RStudio Application
+## Shiny, RHandsonTable, and Shiny Dashboard Libraries were used. Install the following
+   to fully run the program.
+
+-- To install the libraries indicated above, open RStudio and run the 
+   following in the console:
+	> install.packages("shiny")
+	> install.packages("shinydashboard")
+	> install.packages("rhandsontable")
+
+## Open RUNME.R and hit Run App right above the text editor
+## Done!
